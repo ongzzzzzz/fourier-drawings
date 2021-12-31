@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg3745" viewBox="0 0 52.13 97.301" version="1.0">
+  <g id="layer1" transform="translate(-382.51 -658)">
+    <path id="path3743" d="m408.04 658c5.88 14.34 12.3 22.76 16.39 27.42 3.23 3.68 20.94 20.04 0.53 45.61 12.12-25.04 7.76-39.88-13.92-49.03v53c0.68 21.83-21.75 23.16-27.21 17.35-5.65-5.99 7.67-25.89 24.21-19.35v-75z" fill-rule="evenodd"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Eighth note</dc:title>
+        <dc:date>2007-04-10T14:26:55</dc:date>
+        <dc:description>Une croche.</dc:description>
+        <dc:source>http://openclipart.org/detail/3864/eighth-note-by-corbeau</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>corbeau</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>croche</rdf:li>
+            <rdf:li>eighth note</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>music</rdf:li>
+            <rdf:li>music notation</rdf:li>
+            <rdf:li>musique</rdf:li>
+            <rdf:li>notation musicale</rdf:li>
+            <rdf:li>note</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
