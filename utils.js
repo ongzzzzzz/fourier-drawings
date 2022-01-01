@@ -10,7 +10,6 @@ let presetinp = document.getElementById("presetinp");
 let presetbutton = document.getElementById("presetbutton");
 let presetview = document.getElementById("presetview");
 
-let EXTREMASCALE = 3
 function createSettings() {
 	scaleSlider = createSlider(-EXTREMASCALE, EXTREMASCALE, 1, 0)
 	scaleSlider.style("width", "15em");
@@ -54,7 +53,9 @@ function createSettings() {
 	})
 }
 
-let N_coeff = 50;
+
+
+
 
 async function processInput() {
 	fileinp.addEventListener("change", function () {
@@ -258,9 +259,13 @@ function rescale(coeffs) {
 
 
 
+
+
 function len(re, im) { return Math.sqrt(re * re + im * im); }
 
 function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
+
+
 
 // left: 37, up: 38, right: 39, down: 40,
 // spacebar: 32, pageup: 33, pagedown: 34, end: 35, home: 36

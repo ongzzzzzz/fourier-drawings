@@ -3,6 +3,9 @@ let coeffs = {};
 
 let canvas, scaleLabel, scaleSlider, speedLabel, speedSlider, sortCheckbox, redrawButton;
 
+let N_coeff = 50;
+let SCALE = 1;
+let EXTREMASCALE = 3;
 async function setup() {
 	canvas = createCanvas(windowWidth, windowHeight);
 	canvas.parent("sketch");
@@ -16,7 +19,6 @@ async function setup() {
 	loop();
 }
 
-let SCALE = 1;
 let t = 0;
 let graph = {};
 
