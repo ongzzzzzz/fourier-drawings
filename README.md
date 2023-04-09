@@ -1,4 +1,11 @@
-python script: https://replit.com/@Fogeinator/fourier-transform
+# fourier-drawings
+
+live version: https://fourier-drawings.ongzz.repl.co/
+
+python script: https://replit.com/@ongzz/fourier-transform
+
+
+# inspiration
 
 3b1b vid: https://www.youtube.com/watch?v=r6sGWTCMz2k
 
