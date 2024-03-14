@@ -61,7 +61,7 @@ async function processInput() {
 	fileinp.addEventListener("change", function () {
 		fileview.src = URL.createObjectURL(this.files[0])
 	})
-	presetinp.addEventListener("change", function () { presetview.src = `https://fourier-frontend.fogeinator.repl.co/presets/${this.value}.svg`; })
+	presetinp.addEventListener("change", function () { presetview.src = `${window.location.href}/presets/${this.value}.svg`; })
 
 	return new Promise((resolve, reject) => {
 		filebutton.addEventListener("click", () => {
@@ -123,7 +123,7 @@ async function getCoeffs() {
 		rescale(1);
 	}
 	if (inptype === "preset") {
-		let res = await fetch(`https://fourier-frontend.fogeinator.repl.co/presets/${data}.json`);
+		let res = await fetch(`${window.location.href}/presets/${data}.json`);
 		coeffs = await res.json();
 
 		// rescale according to radius
