@@ -2,7 +2,7 @@
 
 live version: https://fourier-drawings.ongzz.repl.co/
 
-python script: https://replit.com/@ongzz/fourier-transform
+python script: https://replit.com/@ongzz/fourier-drawings
 
 
 # inspiration
